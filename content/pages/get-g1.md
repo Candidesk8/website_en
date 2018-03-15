@@ -7,7 +7,7 @@ Authors: cgeek, inso
 
 ## Get it
 
-Whether you are an individual, an association, a company or a robot, you can obtain currency units of Ğ1. As of March 31, 2017, there are ** 15,370.00 Ğ1 ** outstanding.
+Whether you are an individual, an association, a company or a robot, you can obtain currency units of Ğ1. As of March 15, 2018, there are ** 1,250,479.43 Ğ1 ** outstanding.
 
 To do this, it is simple: create a wallet Ğ1 then find someone ready to make an exchange. Yes but an exchange of what? Of units Ğ1 for the one who owns it, against a good or service for the one who wants it.
 
